@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-WangEditor is a web rich editor that use typescript develop. It depends on native `execCommand API` and `selection API`. It's lightweight, simple, use convience and open source.
+WangEditor is a web rich editor that use typescript develop. It's lightweight, simple, use convience and open source.
 
 It support most of modern browsers: Chrome, Firefox, Safar, Edge, QQ, IE11 and so on, not support mobile browers.
 

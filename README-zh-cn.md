@@ -85,7 +85,7 @@ editor.create();
 <!-- LICENSE -->
 ## 许可证
 
-项目在 ISC 的许可证下发布， 查看更多 [ISC](https://en.wikipedia.org/wiki/ISC_license) 许可证信息。
+项目在 MIT 的许可证下发布， 查看更多 [MIT](https://en.wikipedia.org/wiki/MIT_license) 许可证信息。
 
 <!-- CONTACT -->
 ## 交流
