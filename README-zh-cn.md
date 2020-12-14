@@ -36,29 +36,6 @@
   </p>
 </p>
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>目录</summary>
-  <ol>
-    <li>
-      <a href="#项目介绍">项目介绍</a>
-    </li>
-    <li>
-      <a href="#安装和使用">安装和使用</a>
-      <ul>
-        <li><a href="#npm">NPM</a></li>
-        <li><a href="#cdn">CDN</a></li>
-      </ul>
-    </li>
-    <li><a href="#贡献">贡献</a></li>
-    <li><a href="#许可证">许可证</a></li>
-    <li><a href="#交流">交流</a></li>
-    <li><a href="#开发团队">开发团队</a></li>
-    <li><a href="#为我们加油">为我们加油</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## 项目介绍
 

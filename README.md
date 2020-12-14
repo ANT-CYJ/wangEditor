@@ -35,28 +35,6 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#use-npm-package">Use NPM package</a></li>
-        <li><a href="#use-cdn">Use CDN</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">Developer team</a></li>
-    <li><a href="#support-us">Support us</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
