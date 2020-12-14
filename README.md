@@ -108,7 +108,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the ISC License. See [ISC License](https://en.wikipedia.org/wiki/ISC_license) for more information.
+Distributed under the MIT License. See [MIT License](https://en.wikipedia.org/wiki/MIT_license) for more information.
 
 <!-- CONTACT -->
 ## Contact
