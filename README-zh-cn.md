@@ -77,10 +77,11 @@ editor.create();
 贡献使得开源社区成为一个学习、激励和创造的好地方，非常感谢你所做的任何贡献。
 
 1. Fork 项目
-2. 创建你自己的功能分支 (`git checkout -b feature-amazingFeature`)
-3. 提交你的修改 (`git commit -m 'Add some amazingFeature'`)
-4. 推送你的功能分支到远程 (`git push origin feature-amazingFeature`)
-5. 创建一个 Pull request
+2. 阅读我们的开发指南：[开发指南](./docs/README.md)
+3. 创建你自己的功能分支 (`git checkout -b feature-amazingFeature`)
+4. 提交你的修改 (`git commit -m 'Add some amazingFeature'`)
+5. 推送你的功能分支到远程 (`git push origin feature-amazingFeature`)
+6. 创建一个 Pull request
 
 <!-- LICENSE -->
 ## 许可证
